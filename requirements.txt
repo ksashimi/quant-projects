@@ -1,0 +1,5 @@
+yfinance>=0.2.40
+pandas>=2.0
+sqlalchemy>=2.0
+matplotlib>=3.7
+pytest>=7.0

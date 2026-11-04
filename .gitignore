@@ -1,0 +1,11 @@
+data/*.db
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+results/
+.pytest_cache/
+build/
+build-*/
+.Rhistory
+.RData
